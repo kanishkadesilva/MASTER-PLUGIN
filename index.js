@@ -13,30 +13,32 @@ const fs = require("fs-extra");
 const { Boom } = require("@hapi/boom");
 const PORT = process.env.PORT ||  5000
 const MESSAGE = process.env.MESSAGE ||  `
-*MASTER MD IS SUCCESSFULLY  CONNECTED* ✅🔥
+┏━━━━━━━━━━━━━━
+┃MASTER MD SESSION IS 
+┃SUCCESSFULLY
+┃CONNECTED ✅🔥
+┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-❶ || *Creator* = *Sahan Maduwantha / MASTER MIND_👨🏻‍💻*
+❶ || Creator = Sahan / MASTER MIND_👨🏻‍💻
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-❷ || *WhattsApp Channel* = https://whatsapp.com/channel/0029VaWWZa1G3R3c4TPADo0M
+❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VaWWZa1G3R3c4TPADo0M
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-❸ || *Owner* = https://wa.me/+94720797915
+❸ || Owner = https://wa.me/+94720797915
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+❹ || Supported Contacts = 
 
-❹ || *Supported Contacts* = 
-*"Bug test Kanishka,"*
+"idea & Co leader Kanishka,"
 https://wa.me/+94722477361
 
-*"Co leader & Graphic Design Hemal Veenath,"*
+"Co leader & Graphic Design Hemal Veenath,"
 https://wa.me/+94719552053
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-❺ || *INSTAGRAM* = https://www.instagram.com/sahanmaduwantha2006?igsh=YzljYTk1ODg3Zg==
+Bug tester Cyber Kavi,
+https://wa.me/+94743579892
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-❻ || *FaceBook* = https://www.facebook.com/profile.php?id=100089180711131
+❺ || INSTAGRAM = https://www.instagram.com/sahanmaduwantha2006?igsh=YzljYTk1ODg3Zg==
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+❻ || FaceBook = https://www.facebook.com/profile.php?id=100089180711131
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 *ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍʀ ꜱᴀʜᴀɴ ᴏꜰᴄ*
 `
