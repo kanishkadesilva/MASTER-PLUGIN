@@ -13,11 +13,11 @@ const fs = require("fs-extra");
 const { Boom } = require("@hapi/boom");
 const PORT = process.env.PORT ||  5000
 const MESSAGE = process.env.MESSAGE ||  `
-┏━━━━━━━━━━━━━━
-┃MASTER MD SESSION IS 
-┃SUCCESSFULLY
-┃CONNECTED ✅🔥
-┗━━━━━━━━━━━━━━━
+*┏━━━━━━━━━━━━━━*
+*┃MASTER MD SESSION IS*
+*┃SUCCESSFULLY*
+*┃CONNECTED ✅🔥*
+*┗━━━━━━━━━━━━━━━*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❶ || Creator = Sahan / MASTER MIND_👨🏻‍💻
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
@@ -33,7 +33,7 @@ https://wa.me/+94722477361
 "Co leader & Graphic Design Hemal Veenath,"
 https://wa.me/+94719552053
 
-Bug tester Cyber Kavi,
+"Bug tester Cyber Kavi,"
 https://wa.me/+94743579892
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❺ || INSTAGRAM = https://www.instagram.com/sahanmaduwantha2006?igsh=YzljYTk1ODg3Zg==
