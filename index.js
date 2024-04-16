@@ -32,14 +32,13 @@ https://wa.me/+94720797915
 
 "Bug tester Cyber Kavi,"
 https://wa.me/+94743579892
+
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❻ || Facebook = https://www.facebook.com/kanishka.de.silva.01
+❺ || Facebook = https://www.facebook.com/kanishka.de.silva.01
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❻ || Instagram =
+❻ || Instagram = https://www.instagram.com/kanishka_de_silva_01
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❻ || Tiktok = https://www.tiktok.com/@kanishka____x
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❺ || INSTAGRAM = 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 *ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍʀ ꜱᴀʜᴀɴ ᴏꜰᴄ*
 `
