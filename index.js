@@ -19,7 +19,7 @@ const MESSAGE = process.env.MESSAGE ||  `
 *┃CONNECTED ✅🔥*
 *┗━━━━━━━━━━━━━━━*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = Sahan / MASTER MIND_👨🏻‍💻
+❶ || Creator = KANISHKA_X🥷
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VaWWZa1G3R3c4TPADo0M
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
@@ -28,7 +28,7 @@ const MESSAGE = process.env.MESSAGE ||  `
 ❹ || Supported Contacts = 
 
 "idea & Co leader Kanishka,"
-https://wa.me/+94722477361
+https://wa.me/+94720797915
 
 "Co leader & Graphic Design Hemal Veenath,"
 https://wa.me/+94719552053
