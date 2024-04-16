@@ -19,26 +19,26 @@ const MESSAGE = process.env.MESSAGE ||  `
 *┃CONNECTED ✅🔥*
 *┗━━━━━━━━━━━━━━━*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = KANISHKA_X🥷
+𓃮 || 𝐂𝐫𝐞𝐚𝐭𝐨𝐫 = KANISHKA_X🥷
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VaWWZa1G3R3c4TPADo0M
+𓃮 || WhattsApp Channel = https://whatsapp.com/channel/0029VaWWZa1G3R3c4TPADo0M
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❸ || Owner = https://wa.me/+94722477361
+𓃮 || Owner = https://wa.me/+94722477361
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❹ || Supported Contacts = 
+𓃮 || Supported Contacts = 
 
-"Idea & Co Owner Master Mind,"
+"𝐈𝐝𝐞𝐚 & 𝐂𝐨 𝐎𝐰𝐧𝐞𝐫 𝐌𝐚𝐬𝐭𝐞𝐫 𝐌𝐢𝐧𝐝,"
 https://wa.me/+94720797915
 
-"Bug tester Cyber Kavi,"
+"𝐁𝐮𝐠 𝐓𝐞𝐬𝐭𝐞𝐫 𝐂𝐲𝐛𝐞𝐫 𝐊𝐚𝐯𝐢,"
 https://wa.me/+94743579892
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❺ || Facebook = https://www.facebook.com/kanishka.de.silva.01
+𓃮 || Facebook = https://www.facebook.com/kanishka.de.silva.01
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❻ || Instagram = https://www.instagram.com/kanishka_de_silva_01
+𓃮 || Instagram = https://www.instagram.com/kanishka_de_silva_01
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❻ || Tiktok = https://www.tiktok.com/@kanishka____x
+𓃮 || Tiktok = https://www.tiktok.com/@kanishka____x
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 *ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍʀ ꜱᴀʜᴀɴ ᴏꜰᴄ*
 `
