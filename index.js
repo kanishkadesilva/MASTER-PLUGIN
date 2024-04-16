@@ -14,7 +14,7 @@ const { Boom } = require("@hapi/boom");
 const PORT = process.env.PORT ||  5000
 const MESSAGE = process.env.MESSAGE ||  `
 *┏━━━━━━━━━━━━━━*
-*┃MASTER MD SESSION IS*
+*┃QUEEN THARU SESSION IS*
 *┃SUCCESSFULLY*
 *┃CONNECTED ✅🔥*
 *┗━━━━━━━━━━━━━━━*
@@ -23,22 +23,23 @@ const MESSAGE = process.env.MESSAGE ||  `
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VaWWZa1G3R3c4TPADo0M
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❸ || Owner = https://wa.me/+94720797915
+❸ || Owner = https://wa.me/+94722477361
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❹ || Supported Contacts = 
 
-"idea & Co leader Kanishka,"
+"Idea & Co Owner Master Mind,"
 https://wa.me/+94720797915
-
-"Co leader & Graphic Design Hemal Veenath,"
-https://wa.me/+94719552053
 
 "Bug tester Cyber Kavi,"
 https://wa.me/+94743579892
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❺ || INSTAGRAM = https://www.instagram.com/sahanmaduwantha2006?igsh=YzljYTk1ODg3Zg==
+❻ || Facebook = https://www.facebook.com/kanishka.de.silva.01
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❻ || FaceBook = https://www.facebook.com/profile.php?id=100089180711131
+❻ || Instagram =
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+❻ || Tiktok = https://www.tiktok.com/@kanishka____x
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+❺ || INSTAGRAM = 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 *ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍʀ ꜱᴀʜᴀɴ ᴏꜰᴄ*
 `
